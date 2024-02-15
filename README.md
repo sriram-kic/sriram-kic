@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sriram B</h1>
-<h3 align="center">A passionate Web Development from India</h3>
+<h2 align="center">Passionate about Web Development</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriram-kic&label=Profile%20views&color=0e75b6&style=flat" alt="sriram-kic" /> </p>
 
